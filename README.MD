@@ -30,4 +30,4 @@ Este repositório é atualizado continuamente à medida que novos jogos são des
 
 ---
 
-*Desenvolvido por **Jerah Fonseca Carvalho** · [LinkedIn](#) · [Portfólio](#)*
+*Desenvolvido por **Jerah Fonseca Carvalho** · [LinkedIn](https://www.linkedin.com/in/jerah-fonseca-carvalho-319394398/)*
